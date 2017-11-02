@@ -1,0 +1,4 @@
+<map id="map"  scale="{{scale}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" 
+latitude="{{latitude}}"
+longitude ="{{longitude}}"
+controls="{{controls}}" show-location bindregionchange="regionchange" style="width: 100%; height: {{view.Height}}px;"></map>
